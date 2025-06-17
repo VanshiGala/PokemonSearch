@@ -33,7 +33,7 @@ function Poke() {
     setError("");
   };
   return (
-    <div className="bg-blue-100 min-h-screen">
+    <div className="bg-pink-100 min-h-screen">
       <div className="max-w-6xl mx-auto p-4 text-center mb-10">
         <input
           type="text"
